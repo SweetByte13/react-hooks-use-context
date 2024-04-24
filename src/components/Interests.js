@@ -1,4 +1,5 @@
 import React from "react";
+import data from "../context/user"
 
 function Interests({ interests, theme }) {
   return (
